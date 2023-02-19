@@ -55,14 +55,7 @@
       <option name="project" value="LOCAL" />
       <updated>1671374452543</updated>
     </task>
-    <task id="LOCAL-00004" summary="commit prova">
-      <created>1672589847938</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1672589847938</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,7 +86,6 @@
     <MESSAGE value="Added prova.txt" />
     <MESSAGE value="Added prova_develop.txt" />
     <MESSAGE value="Added prova_feature.txt" />
-    <MESSAGE value="commit prova" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit prova" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added prova_feature.txt" />
   </component>
 </project>
